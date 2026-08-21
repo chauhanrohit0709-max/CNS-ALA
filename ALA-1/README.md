@@ -1,1 +1,1 @@
-https://rohit-cns-ala1.netlify.app/
+https://cnsala1.netlify.app/
